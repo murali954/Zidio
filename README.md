@@ -87,7 +87,6 @@ project_folder/
 │
 ├── app.py                 # Main Streamlit application
 ├── stock_data.csv         # Your stock dataset
-├── Untitled.jpeg         # Branding/logo image
 └── requirements.txt       # Dependencies list
 4. Launch Application
 bashstreamlit run app.py
@@ -153,20 +152,26 @@ Adjust parameters based on performance
 Consider seasonal patterns in data
 Regular model retraining
 
-Chatbot Usage
+Chatbot Usage:
 
 Ask specific, focused questions
 Reference recent forecast results
 Combine quantitative and qualitative insights
 Utilize context-aware responses
+
 📊 Model Performance Metrics
 Evaluation Results for ARIMA Forecasting Model:
 MetricValuePerformance LevelMAE (Mean Absolute Error)8.42ExcellentRMSE (Root Mean Squared Error)9.84ExcellentMAPE (Mean Absolute Percentage Error)6.39%Excellent
 📈 Performance Analysis:
 
-MAE: Average prediction error of ₹8.42 per forecast
-RMSE: Standard deviation of errors at ₹9.84
-MAPE: 6.39% relative error - well within acceptable range (<10%)
+MAE:
+Average prediction error of ₹8.42 per forecast
+RMSE:
+Standard deviation of errors at ₹9.84
+MAPE:
+6.39% relative error - well within acceptable range (<10%)
 
-⚙️ Model Optimization Note: These metrics may vary based on selected ARIMA parameters (p,d,q). Fine-tuning the model order can potentially improve accuracy further.
-✅ Model Quality Assessment: Excellent forecasting performance across all metrics, indicating highly reliable predictions.
+⚙️ Model Optimization Note:
+These metrics may vary based on selected ARIMA parameters (p,d,q). Fine-tuning the model order can potentially improve accuracy further.
+✅ Model Quality Assessment:
+Excellent forecasting performance across all metrics, indicating highly reliable predictions.RetryClaude does not have the ability to run the code it generates yet.Claude can make mistakes. Please double-check responses.
