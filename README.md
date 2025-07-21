@@ -1,5 +1,6 @@
 📈 Stock Forecasting with ARIMA + 🤖 Chatbot
 A sophisticated Streamlit web application that combines advanced time series forecasting with AI-powered insights. This app uses ARIMA modeling to predict stock prices and features an intelligent chatbot to answer questions about market trends and forecasts.
+
 🚀 Key Features
 📊 Interactive Stock Analysis
 
